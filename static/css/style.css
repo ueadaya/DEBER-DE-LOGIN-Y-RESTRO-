@@ -1,0 +1,12 @@
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial,sans-serif;margin:0;background:#f7f7f9;color:#222}
+main{max-width:900px;margin:2rem auto;padding:0 1rem}
+.nav{display:flex;gap:1rem;background:#111;color:#fff;padding:.75rem 1rem}
+.nav a{color:#fff;text-decoration:none}
+form{display:grid;gap:.5rem;max-width:420px}
+input{padding:.5rem;border:1px solid #ccc;border-radius:8px}
+button{padding:.6rem 1rem;border:none;border-radius:10px;cursor:pointer}
+.flashes{list-style:none;padding:0;margin:1rem 0}
+.flashes li{padding:.75rem;border-radius:10px;margin:.5rem 0}
+.success{background:#e7f7ee;border:1px solid #bfe6ce}
+.error{background:#fde8e8;border:1px solid #f5b5b5}
+.info{background:#e8f0fe;border:1px solid #c6d2ff}
